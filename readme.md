@@ -28,14 +28,14 @@ This will allow the user to select the source database, run schema and seeds sql
 
 *Pending npm i command to allow selection of roles and employees.
 
-## License:
-MIT
-
 ## Contribution: N/A
 
 
 ## Screenshots:
 <a href="https://ibb.co/bXC14Vv"><img src="https://i.ibb.co/L1cSTyg/Employee-tracker-screenshot.jpg" alt="Employee-tracker-screenshot" border="0"></a>
+
+## License:
+MIT
 
 
 
